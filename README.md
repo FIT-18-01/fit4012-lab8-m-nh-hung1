@@ -15,20 +15,20 @@ Lab 8 kế thừa cách tổ chức repo của Lab 6 socket starter, nhưng thay
 
 ## Team members
 
-- **Thành viên 1**: TODO_MEMBER_1 - MSSV: TODO_MEMBER_1_ID
-- **Thành viên 2**: TODO_MEMBER_2 - MSSV: TODO_MEMBER_2_ID
+- **Thành viên 1**: Bùi Đình Mạnh - MSSV: 1871020379
+- **Thành viên 2**: Phạm Ngọc Hùng - MSSV: 1871020265
 
 ## Task division
 
-- **Thành viên 1 phụ trách chính**: TODO_ROLE_MEMBER_1
-- **Thành viên 2 phụ trách chính**: TODO_ROLE_MEMBER_2
-- **Phần làm chung**: TODO_SHARED_WORK
+- **Thành viên 1 phụ trách chính**: Bùi Đình Mạnh - Cài đặt môi trường, tạo RSA key, chạy Sender, kiểm tra log và test.
+- **Thành viên 2 phụ trách chính**: Phạm Ngọc Hùng - Chạy Receiver, kiểm tra giải mã, kiểm tra SHA-256 và hỗ trợ kiểm thử.
+- **Phần làm chung**: Hoàn thiện báo cáo, kiểm tra GitHub Actions và demo chương trình truyền dữ liệu an toàn.
 
 ## Demo roles
 
-- **Demo Sender / mã hóa / log gửi**: TODO_DEMO_ROLE_1
-- **Demo Receiver / giải mã / kiểm tra hash**: TODO_DEMO_ROLE_2
-- **Cả hai cùng trả lời câu hỏi mở rộng AES và chữ ký số**: TODO_DEMO_ROLE_SHARED
+- **Demo Sender / mã hóa / log gửi**: Bùi Đình Mạnh
+- **Demo Receiver / giải mã / kiểm tra hash**: Phạm Ngọc Hùng
+- **Cả hai cùng trả lời câu hỏi mở rộng AES và chữ ký số**: Bùi Đình Mạnh và Phạm Ngọc Hùng
 
 ---
 
